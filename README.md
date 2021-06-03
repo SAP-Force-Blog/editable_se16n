@@ -1,6 +1,6 @@
 # Editable SE16N
 
-For some reason you ever needed to edit some value of a table but yo didn't have debug permission?
+For some reason you ever needed to edit some value of a table but you didn't have debug permission?
 
 If you're lucky and have permission to execute Function Modules you're good!
 
